@@ -21,8 +21,7 @@
       </td>
     </tr>
   </table>
-  <br>
-</br>
+  <br></br>
 <table border="1" bgcolor="white" width="1000">
     <tr>
     <th>Mã số trang</th>
