@@ -3,11 +3,10 @@
     <title>Trương Quang Minh A3 toán 2024-2027 </title>
 </head>
 <body bgcolor=white>
-  <font face =" Tahoma" size="7" color= red> Thông tin cần biết</font><br></br>
-    <font face =" Tahoma" size="3" > Ấn vào ảnh dưới để biết thêm về Ami</font><br></br>
+  <font face =" Tahoma" size="7" color= red> Thông tin cần biết</font><br>
+    <font face =" Tahoma" size="3" > Ấn vào ảnh dưới để biết thêm về Ami</font><br>
   <a href="https://quangminh29hanoi-create.github.io/m1/"> <img src="https://inkythuatso.com/uploads/thumbnails/800/2022/05/aca1c913ccaf08584170c78c7c2d3a5d-06-16-06-38.jpg" height="110">
 </a>
-</br>
 <table bgcolor="green" width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="left" valign="top">
